@@ -1,0 +1,10 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'a고속도로';
+    font-style: normal;
+    font-weight: 400;
+    src: url(./fonts/a고속도로.otf);
+    src: url(../fonts/GmarketSansTTFMedium?#iefix) format('embedded-opentype'),
+        url(./fonts/a고속도로.woff) format('woff'),
+        url(./fonts/a고속도로.ttf) format('truetype');
+} 
